@@ -1,0 +1,10 @@
+name: MineSkyMito
+version: '1.0.1-BETA'
+main: net.minesky.MineSkyMito
+api-version: '1.19'
+author: Drawn
+commands:
+  setmito:
+    description: Seta um novo mito
+  mito:
+    description: Mostra o mito atual
