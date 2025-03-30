@@ -21,7 +21,7 @@ public class SetMitoCommand implements CommandExecutor {
             return true;
         }
 
-        if(!s.hasPermission("scbmito.setmito")) {
+        if(!s.hasPermission("mineskymito.setmito")) {
             s.sendMessage(Utils.c("&cEste comando não existe ou você não tem acesso!"));
             return true;
         }

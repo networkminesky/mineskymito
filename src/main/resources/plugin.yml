@@ -8,3 +8,7 @@ commands:
     description: Seta um novo mito
   mito:
     description: Mostra o mito atual
+permissions:
+  mineskymito.setmito:
+    description: Permissão para setar um novo mito.
+    default: op
